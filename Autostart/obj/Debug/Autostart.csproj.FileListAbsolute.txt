@@ -1,0 +1,7 @@
+C:\Users\7-9lat\source\repos\Autostart\Autostart\bin\Debug\Autostart.exe.config
+C:\Users\7-9lat\source\repos\Autostart\Autostart\bin\Debug\Autostart.exe
+C:\Users\7-9lat\source\repos\Autostart\Autostart\bin\Debug\Autostart.pdb
+C:\Users\7-9lat\source\repos\Autostart\Autostart\obj\Debug\Autostart.csprojAssemblyReference.cache
+C:\Users\7-9lat\source\repos\Autostart\Autostart\obj\Debug\Autostart.csproj.CoreCompileInputs.cache
+C:\Users\7-9lat\source\repos\Autostart\Autostart\obj\Debug\Autostart.exe
+C:\Users\7-9lat\source\repos\Autostart\Autostart\obj\Debug\Autostart.pdb
